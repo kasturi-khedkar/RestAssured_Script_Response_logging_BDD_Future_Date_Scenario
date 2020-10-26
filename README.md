@@ -1,0 +1,1 @@
+# RestAssured_Script_Response_logging_BDD_Future_Date_Scenario
